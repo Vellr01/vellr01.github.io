@@ -1,3 +1,6 @@
+/*
+I wanted to put something funi here but got no idea so.. yeah..
+*/
 body{
     background-color: #111;
     color: #eee;
@@ -17,6 +20,9 @@ main{
     gap:10px;
 }
 
+main h3{
+    max-width: 450px;
+}
 
 #daInput{
     color: #aaa;
