@@ -28,6 +28,7 @@ main h3{
     color: #aaa;
     outline: none;
     background-color: #181818;
+    border-radius: 7px;
     border: 2px solid #202020;
     transition: border-color .1s ease, background-color .1s ease, color .1s ease;
 }
